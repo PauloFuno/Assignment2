@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Assignment2</string>
+    <string-array name="movies">
+        <item>Catch Me If You Can</item>
+        <item>Fight Club</item>
+        <item>Forrest Gump</item>
+        <item>The God Father</item>
+        <item>Good Will Hunting</item>
+        <item>Pulp Fiction</item>
+        <item>The Hangover</item>
+        <item>The Shaw Shank Redemption</item>
+        <item>Titanic</item>
+    </string-array>
+    <string-array name="movieP">
+        <item>catch_me_if_you_can</item>
+        <item>fight_club</item>
+        <item>forrest_gump</item>
+        <item>the_god_father</item>
+        <item>good_will_hunting</item>
+        <item>pulp_fiction</item>
+        <item>the_hangover</item>
+        <item>the_shaw_shank_redemption</item>
+        <item>titanic</item>
+    </string-array>
+</resources>
